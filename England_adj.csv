@@ -1,0 +1,10 @@
+,Yorkshire and The Humber,South East,North East,West Midlands,East of England,East Midlands,North West,London,South West
+Yorkshire and The Humber,0,0,1,0,0,1,1,0,0
+South East,0,0,0,1,1,1,0,1,1
+North East,1,0,0,0,0,0,1,0,0
+West Midlands,0,1,0,0,0,1,1,0,1
+East of England,0,1,0,0,0,1,0,1,0
+East Midlands,1,1,0,1,1,0,1,0,0
+North West,1,0,1,1,0,1,0,0,0
+London,0,1,0,0,1,0,0,0,0
+South West,0,1,0,1,0,0,0,0,0
